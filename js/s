@@ -1,0 +1,13 @@
+Recipe-area="${areaList[i].strArea}" Recipe-cat="${areaList[i].strCategory}" 
+Recipe-you="${areaList[i].strYoutube}" Recipe-sour="${areaList[i].strSource}"
+Recipe-mes1="${areaList[i].strMeasure1}" Recipe-mes2="${areaList[i].strMeasure2}"
+Recipe-mes3="${areaList[i].strMeasure3}"Recipe-mes4="${areaList[i].strMeasure4}"
+Recipe-mes5="${areaList[i].strMeasure5}"Recipe-mes6="${areaList[i].strMeasure6}"
+Recipe-mes7="${areaList[i].strMeasure7}"Recipe-mes8="${areaList[i].strMeasure8}
+"Recipe-mes9="${areaList[i].strMeasure9}"Recipe-mes10="${areaList[i].strMeasure10}"
+Recipe-ing1="${areaList[i].strIngredient1}" Recipe-ing2="${areaList[i].strIngredient2}"
+Recipe-ing3="${areaList[i].strIngredient3}"Recipe-ing4="${areaList[i].strIngredient4}"
+Recipe-ing5="${areaList[i].strIngredient5}"Recipe-ing6="${areaList[i].strIngredient6}"
+Recipe-ing7="${areaList[i].strIngredient7}"Recipe-ing8="${areaList[i].strIngredient8}"
+Recipe-ing9="${areaList[i].strIngredient9}"Recipe-ing10="${areaList[i].strIngredient10}"
+Recipe-mes11="${areaList[i].strMeasure11}"Recipe-ing11="${areaList[i].strIngredient11}"
